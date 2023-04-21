@@ -1,0 +1,4 @@
+# ninja log v5
+1	7989	1682047100556982577	/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	ebece36b7471b1c6
+1	23689	1682047116252982154	/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/src/vision.o	2bd0b3773539c67
+1	63982	1682047156552981068	/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/zk/GIT/working/InternImage/segmentation/ops_dcnv3/src/cuda/dcnv3_cuda.o	c3312a4d791ce135
